@@ -85,4 +85,5 @@ footer.footer .social-link:hover {
   color: #fff;
   border-radius: 3px;
   margin: .5vh;
+  display: inline-block;
 }
